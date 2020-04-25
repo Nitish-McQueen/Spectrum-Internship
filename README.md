@@ -1,2 +1,2 @@
-# ML_Task_0
+The solution of task is in the Solution.ipynb file.
  
