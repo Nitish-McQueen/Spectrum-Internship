@@ -17,7 +17,7 @@
     
     6. Statsmodel.api
    
--> Task- 1   :  In this task a dictionary was given and we have to perform operation on this dictionary by using Numpy library and perform data visualization by using Matplotlib library.
+-> Task- 1   :  In this task a dictionary was given and we have to perform operation on this dictionary by using Numpy library and perform data visualization by using Matplotlib library and perform some statistical operations( Mean,Median,Maz,Min).
 
 -> Task- 2   : In this task a "Student" dataset was given and we perform several operations-
 
