@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <title>Student Grade Prediction</title>
+  </head>
+  <body>
+    <h2><div style="text-align:center"><font color="blue">Student Grade Prediction System</font></div></h2>
+    <hr>
+    </br>
+    <h2><div style="text-align:center">Enter the values of No. of Absences , G1 Score and G2 Score</div></h2>
+    </br>
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <form method="POST" action="/predict">
+            <div class="form-group">
+                    <label for="absences"><p class="font-weight-bold">total Absences</p></label>
+                    <input type="text" name="absences" required="required">
+                    <small id="AbsencesHelp" class="form-text text-muted">Enter number of school absences (numeric: from 0 to 93)</small>
+                    </div>
+
+                    <div class="form-group">
+                      <label for="G1"><p class="font-weight-bold">G1 Score</p></label>
+                      <input type="text" name="G1" required="required">
+                      <small id="G1Help" class="form-text text-muted">Enter grade-1 (numeric: from 0 to 20)</small>
+                      </div>
+
+                      <div class="form-group">
+                        <label for="G2"><p class="font-weight-bold">G2 Score</p></label>
+                        <input type="text" name="G2" required="required">
+                        <small id="G2Help" class="form-text text-muted">Enter grade-2 (numeric: from 0 to 20)</small>
+                        </div>
+                        <button type="submit" class="btn btn-primary ">Submit</button>
+            </form>
+
+          </div>
+          </div>
+          </div>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
