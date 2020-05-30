@@ -78,6 +78,13 @@
     
     
     
+Name - Nitish Kumar Nayak
+
+Regd No. - 1805106016
+
+Branch - MCA
+
+CET , Bhubaneswar
     
     
     
