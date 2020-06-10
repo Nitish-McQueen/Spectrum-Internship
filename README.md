@@ -73,10 +73,10 @@
 
           Predict Score:  0.9973
           
- Future Scope :  We can deploy the model so that it take inputs and predict the output
+ Future Scope :  We can deploy the model so that it take inputs and predict the output.
  
  
- I have deployed the model in Heroku Cloud
+ I have created a web interface using Flask and deployed the model in Heroku Cloud.
  
  Check it out-http://studentprediction-api.herokuapp.com/
     
