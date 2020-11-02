@@ -78,7 +78,7 @@
  
  I have created a web interface using Flask and deployed the model in Heroku Cloud.
  
- Check it out-http://studentprediction-api.herokuapp.com/
+ Check it out-https://studentprediction-api.herokuapp.com/
     
     
     
